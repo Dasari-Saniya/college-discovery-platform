@@ -1,6 +1,6 @@
 # UniFind – College Discovery & Comparison Platform
 
-UniFind is a modern full-stack web application designed to help students discover, explore, and compare colleges easily. The platform provides an intuitive interface for searching universities, viewing detailed information, and comparing multiple colleges side by side.
+UniFind is a modern full-stack web application designed to help students discover, explore, and compare colleges easily. The platform provides an intuitive interface for searching universities, viewing detailed information, and comparing multiple colleges side by side
 
 ## Features
 
@@ -80,9 +80,19 @@ http://localhost:3000
 
 Deployed on Vercel.
 
-## GitHub Repository
+## Screenshots
 
-https://github.com/Dasari-Saniya/college-discovery-platform
+### Home Page
+![Home Page](home.png)
+
+### Explore Page
+![Explore Page](explore.png)
+
+### Login Page
+![Login Page](login.png)
+
+### Compare Page
+![Compare Page](compare.png)
 
 ## Author
 
