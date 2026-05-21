@@ -78,7 +78,7 @@ http://localhost:3000
 
 ## Live Demo
 
-Deployed on Vercel.
+https://college-discovery-platform-chi.vercel.app/
 
 ## Screenshots
 
